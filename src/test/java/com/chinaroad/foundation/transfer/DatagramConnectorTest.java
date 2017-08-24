@@ -10,7 +10,7 @@ public class DatagramConnectorTest {
 	private String host = "119.2.5.45";
 	private int port = 7000;
 	
-	@Test
+	// @Test
 	public void test() throws Exception {
 		DatagramConnector connector = new DatagramConnector();
 		

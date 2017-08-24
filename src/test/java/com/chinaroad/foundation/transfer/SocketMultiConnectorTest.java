@@ -7,7 +7,7 @@ import com.chinaroad.foundation.transfer.handler.DemoClientHandler;
 
 public class SocketMultiConnectorTest {
 
-	@Test
+	// @Test
 	public void test() throws Exception {
 		final SocketMultiConnector connector = new SocketMultiConnector();
 		

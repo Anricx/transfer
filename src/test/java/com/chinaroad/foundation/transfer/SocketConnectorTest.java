@@ -10,7 +10,7 @@ public class SocketConnectorTest {
 	private String host = "124.172.168.33";
 	private int port = 8081;
 
-	@Test
+	// @Test
 	public void test() throws Exception {
 		SocketConnector connector = new SocketConnector();
 		

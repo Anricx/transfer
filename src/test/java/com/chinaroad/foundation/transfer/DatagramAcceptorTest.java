@@ -9,7 +9,7 @@ public class DatagramAcceptorTest {
 	private String host = "0.0.0.0";
 	private int port = 7001;
 	
-	@Test
+	// @Test
 	public void test() throws Exception {
 		DatagramAcceptor acceptor = new DatagramAcceptor(host, port);
 		

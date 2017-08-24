@@ -10,6 +10,7 @@ public class SocketAcceptorTest {
 	private String host = "0.0.0.0";
 	private int port = 8080;
 	
+	// Test
 	@Test
 	public void test() throws Exception {
 		SocketAcceptor acceptor = new SocketAcceptor(host, port);

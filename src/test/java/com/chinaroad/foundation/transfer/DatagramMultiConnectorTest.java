@@ -7,7 +7,7 @@ import com.chinaroad.foundation.transfer.handler.DemoClientHandler;
 
 public class DatagramMultiConnectorTest {
 
-	@Test
+	// @Test
 	public void test() throws Exception {
 		final DatagramMultiConnector connector = new DatagramMultiConnector();
 
